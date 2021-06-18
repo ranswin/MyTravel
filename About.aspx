@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About absbs
+        About Revert changes apply
     </h2>
     <p>
         Put content here.
